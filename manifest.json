@@ -3,7 +3,7 @@
  "language": "python",
  "author": "Farmbot.io",
  "description": "Set the angle of a servo.",
- "version": "1.0.0",
+ "version": "1.0.1",
  "min_os_version_major": 6,
  "url": "https://raw.githubusercontent.com/FarmBot-Labs/set-servo-angle/master/manifest.json",
  "zip": "https://github.com/FarmBot-Labs/set-servo-angle/archive/master.zip",
