@@ -5,7 +5,7 @@
  "description": "Set the angle of a servo.",
  "version": "1.0.2",
  "min_os_version_major": 6,
- "url": "https://raw.githubusercontent.com/FarmBot-Labs/set-servo-angle/master/manifest.json",
+ "url": "https://raw.githubusercontent.com/FarmBot-Labs/set-servo-angle/master/manifest_v1.json",
  "zip": "https://github.com/FarmBot-Labs/set-servo-angle/archive/master.zip",
  "executable": "python",
  "args": ["set-servo-angle-master/set_servo_angle.py"],
