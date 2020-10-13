@@ -4,7 +4,7 @@ Set the angle of a servo.
 ## Install
 [Farmware page](https://my.farm.bot/app/farmware) install URL:
 ```
-https://raw.githubusercontent.com/FarmBot-Labs/set-servo-angle/master/manifest.json
+https://raw.githubusercontent.com/FarmBot-Labs/set-servo-angle/main/manifest.json
 ```
 
 ## Use
